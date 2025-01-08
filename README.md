@@ -1,2 +1,3 @@
 # discord-character-generator-bot
-A bot I created using the knowledge from my character design tool. It reads the users message if the message is "!generate" it returns a message with all of the design parameters
+A bot I created to assist Artists on a discord server with ideas when designing a Character.
+ It reads the users message if the message is "!generate" it returns a message with all of the random design parameters
